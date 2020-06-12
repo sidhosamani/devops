@@ -1,0 +1,4 @@
+
+1. service jenkins start
+2. service jenkins stop
+3. service jenkins status
